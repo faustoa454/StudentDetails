@@ -12,6 +12,7 @@ public class StudentDetails {
 
     /**
      * @param args the command line arguments
+     * This is master code
      */
     public static void main(String[] args) {
         // TODO code application logic here
