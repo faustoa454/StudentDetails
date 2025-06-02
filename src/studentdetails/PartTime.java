@@ -9,5 +9,6 @@ package studentdetails;
  * @author rfaus
  */
 public class PartTime {
+    //test
     
 }
