@@ -10,6 +10,6 @@ package studentdetails;
  */
 public class PartTime {
     //test
-    private string sid;
+    private String sid;
     
 }
